@@ -3,6 +3,9 @@ Pennywise is a cutting-edge app that brings budget and expense tracking to your 
 
 ---
 
+![Screenshot of the app](./Banner.png)
+
+
 ## Our Journey to Pennywise
 Our journey to creating Pennywise began with a clear vision: to extend the robust capabilities of finance management from the iPhone to the more intimate and accessible interface of the Apple Watch. Drawing on our extensive experience in iPhone app development, we embraced the challenge of simplifying the complex nature of expense tracking into an effortless wrist-based experience.
 
