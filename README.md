@@ -69,7 +69,7 @@ The future for Pennywise is bright. We are dedicated to expanding its features, 
 
 ```bash
 # Clone or download the Pennywise repository
-git clone https://github.com/your-username/pennywise.git
+git clone [https://github.com/sneh-ach/Pennywise/]
 
 # Open the project with Xcode
 open Pennywise.xcodeproj
