@@ -62,3 +62,20 @@ The future for Pennywise is bright. We are dedicated to expanding its features, 
 
 - **Xcode 11.4 or later**: The IDE where magic happens.
 - **Apple Developer Account**: Essential for accessing the full suite of development tools and features.
+  
+ ---
+
+## Ready to Start?
+
+```bash
+# Clone or download the Pennywise repository
+git clone https://github.com/your-username/pennywise.git
+
+# Open the project with Xcode
+open Pennywise.xcodeproj
+
+# Input your specific App/Bundle ID and iCloud Container ID in Xcode's project settings
+
+# Build the project and run it on your desired device(s)
+
+
