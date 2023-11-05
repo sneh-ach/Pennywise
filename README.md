@@ -77,5 +77,10 @@ open Pennywise.xcodeproj
 # Input your specific App/Bundle ID and iCloud Container ID in Xcode's project settings
 
 # Build the project and run it on your desired device(s)
+```
+## License
+
+This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
+
 
 
